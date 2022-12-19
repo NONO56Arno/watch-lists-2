@@ -72,3 +72,5 @@ group :test do
 end
 
 gem "simple_form", github: "heartcombo/simple_form"
+gem "font-awesome-sass", "~>6.1"
+gem "autoprefixer-rails"
